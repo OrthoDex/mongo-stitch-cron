@@ -1,0 +1,16 @@
+{
+    "name": "minuteCron",
+    "type": "DATABASE",
+    "config": {
+        "operation_types": [
+            "DELETE"
+        ],
+        "database": "cron",
+        "collection": "minute",
+        "service_name": "mongodb-atlas",
+        "match": {},
+        "full_document": true
+    },
+    "function_name": "cronHelloWorld",
+    "disabled": true
+}
