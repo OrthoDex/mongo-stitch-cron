@@ -2,7 +2,7 @@
 
 A simple stitch app to run as a cron service on MongoDB Stitch, using MongoDB TTL.
 
-[![Powered by Stitch](http://badge.learnstitch.com/?appid=cron-ypfzq)(http://cloud.mongodb.com)]
+[![Powered by Stitch](http://badge.learnstitch.com/?appid=cron-ypfzq)](http://cloud.mongodb.com)
 
 This repository contains a stitch app configured as a database trigger for a DELETE event.
 
