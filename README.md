@@ -10,7 +10,7 @@ The DELETE event occurs when a document within a collection containing a TTL ind
 
 # Setup
 
-- Install [node](https://nodejs.org/en/download/current/). This repository's node version can be found in [.nvmrc](./nvmrc).
+- Install [node](https://nodejs.org/en/download/current/). This repository's node version can be found in [.nvmrc](./.nvmrc).
 
 - Install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 
@@ -44,7 +44,7 @@ yarn install
 
 You can view the logs for the stitch app in the left side of your stitch app dashboard.
 
-## [Contributing](./CONTRIBUING.md)
+## [Contributing](./CONTRIBUTING.md)
 
 ## Resources
 
